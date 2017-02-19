@@ -1,6 +1,6 @@
 {
   "name": "gulp-gae-improved",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Gulp Google App Engine Plugin",
   "main": "index.js",
   "scripts": {
